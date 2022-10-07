@@ -1,2 +1,2 @@
 # OVER-THE-TOP
-https://zeeshan-aamir.github.io/pure-css-parallax/
+https://zeeshan-aamir.github.io/OVER-THE-TOP/
